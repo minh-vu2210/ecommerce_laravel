@@ -20,7 +20,7 @@ class CreateOrdersTable extends Migration
             $table->string('status');
             $table->string('payment_method');
             $table->string('address');
-            $table->integer('price');
+           
             // $table->string('country');
             // $table->string('state');
             // $table->string('state');
