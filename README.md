@@ -11,6 +11,8 @@ Users can also view their orders and their status
 
 Clone down this repository. You will need `composer` and `npm` installed globally on your machine.  
 
+Checkout the `master`branch and follow the installation instructions
+
 Installation:
 
 `composer install`  
