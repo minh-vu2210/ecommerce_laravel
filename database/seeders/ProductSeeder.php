@@ -30,7 +30,7 @@ class ProductSeeder extends Seeder
                 "gallery" => 'https://plecom.imgix.net/iil-253585-646243.jpg?fit=fillmax&fill=solid&fill-color=ffffff&auto=format&w=700&h=700'
             ],
             [
-                'name' => 'Intel Core i7 11700F ',
+                'name' => 'Intel Core i7 11700F Rocket Lake ',
                 'price' => '485',
                 'description' => "8 Core 16 Thread Up To 4.9Ghz LGA1200 - No iGPU",
                 "category" => "Processor",
@@ -43,7 +43,7 @@ class ProductSeeder extends Seeder
                 "category" => "Processor",
                 "gallery" => 'https://plecom.imgix.net/iil-249688-645381.jpg?fit=fillmax&fill=solid&fill-color=ffffff&auto=format&w=700&h=700'
             ],[
-                'name' => 'ASUS ROG Thor 1200W 80PLUS Platinum Modular Power Supply',
+                'name' => 'ASUS ROG Thor 1200W 80PLUS Power Supply',
                 'price' => '589',
                 'description' => "he ROG Thor 1200W Platinum ensures reliable power delivery with phenomenal efficiency. True to its name, it has 80 Plus Platinum certification that guarantees efficiency around 90% for a wide range of loads and input voltages. We’re so confident in its durability that the PSU warranty lasts for 10 years, a first for ROG",
                 "category" => "Power Supply",
